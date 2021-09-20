@@ -3,7 +3,7 @@
 }
 
 h1 {
-    font-family: Brushtstroke, fantasy;
+    font-family: Palatino, serif;
     color: #000000;
     text-align: center;
 }
@@ -32,7 +32,7 @@ section {
      background-color: #00FF99;
      width: 100%;
      height: 200px;
-     font-family: Helvetica;
+     font-family: Arial-Narrow, sans-serif;
      color: black;
      position: relative;
      overflow: auto;
@@ -43,13 +43,13 @@ section {
      text-align: center;
      width: 30%;
      margin-left: 70%;
-     font-family: Georgia, sans-serif;
-     font-weight: bold;
+     font-family: Trebuchet, sans-serif;
+     font-weight: normal;
      font-size: 125%;      
      margin-bottom: 0;
      margin-top: 0;
      padding: 5px;
-     background-color: #FFFF00;
+     background-color: #008B8B;
 }
 
 #beef {
@@ -57,13 +57,13 @@ section {
      text-align: center;
      width: 30%;
      margin-left: 70%;
-     font-family: Georgia, sans-serif;
-     font-weight: bold;
+     font-family: Trebuchet, sans-serif;
+     font-weight: normal;
      font-size: 125%;      
      margin-bottom: 0;
      margin-top: 0;
      padding: 5px;
-     background-color: #FFF1439;
+     background-color: #DC143C;
 }
 
 #sushi {
@@ -71,13 +71,13 @@ section {
      text-align: center;
      width: 30%;
      margin-left: 70%;
-     font-family: Georgia, sans-serif;
-     font-weight: bold;
+     font-family: Trebuchet, sans-serif;
+     font-weight: normal;
      font-size: 125%;      
      margin-bottom: 0;
      margin-top: 0;
      padding: 5px;
-     background-color: #6495ED;
+     background-color: #FF7F50;
      color: white;
      padding: 5px;
 }
